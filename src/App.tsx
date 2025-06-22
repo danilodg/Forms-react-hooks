@@ -1,4 +1,4 @@
-import { Forms } from "./components/forms/forms"
+import { Forms } from "./components/forms/reactForms"
 
 
 function App() {
